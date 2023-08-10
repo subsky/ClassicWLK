@@ -1,13 +1,4 @@
-#include "UpdateFields.h"
-#include "ByteBuffer.h"
 
-#if TRINITY_COMPILER == TRINITY_COMPILER_GNU
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wunused-parameter"
-#else
-#pragma warning(push)
-#pragma warning(disable: 4100)
-#endif
 
 namespace UF
 {
