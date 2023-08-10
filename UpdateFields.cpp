@@ -1,5 +1,3 @@
-
-
 #include "UpdateFields.h"
 #include "ByteBuffer.h"
 
